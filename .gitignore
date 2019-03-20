@@ -1,0 +1,16 @@
+/bitrix/.settings.php
+/bitrix/backup
+/bitrix/cache
+/bitrix/managed_cache
+/bitrix/modules/*.log
+/bitrix/php_interface/dbconn.php
+/bitrix/stack_cache
+/upload
+/.gitignore
+/*.log
+/*.sql
+/*.txt
+/*.xml
+/*.dt
+.idea/
+.git/
