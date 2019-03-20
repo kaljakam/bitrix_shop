@@ -1,23 +1,9 @@
-.pw-0 {
-    padding-left: 0;
-    padding-right: 0;
-}
-
-.ph-0 {
-    padding-top:0;
-    padding-bottom: 0;
-}
-
-.top-menu a {
-    padding: 5px 15px;
-    display: inline-block;
-    border: 1px solid gray;
-    margin: 5px 5px 5px 0;
-}
-
-.top-menu {
-    float: left;
-}
+div.mfeedback {}
+div.mf-name, div.mf-email, div.mf-captcha, div.mf-message {width:80%; padding-bottom:0.4em;}
+div.mf-name input, div.mf-email input {width:60%;}
+div.mf-message textarea {width: 60%;}
+span.mf-req {color:red;}
+div.mf-ok-text {color:green; font-weight:bold; padding-bottom: 1em;}
 
 .modal_background{
     position: fixed;

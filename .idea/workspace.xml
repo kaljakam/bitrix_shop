@@ -2,75 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9eca209-2321-4d62-ba12-f34595f3199f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/editor_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/foooter_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/footer_h4_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/lightblue_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/logo_mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/logo_mobile_retina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/logo_retina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/ru/preview_horizontal.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/ru/preview_vertical.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/ru/screen_horizontal.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/ru/screen_vertical.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/wt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/images/x2footer_h4_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/lang/en/big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/lang/en/small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/bitrix_shop.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/.styles.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/eshop/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/eshop/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/eshop/lang/ua/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/eshop/result_modifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/eshop/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/eshop/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.map/.default/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.map/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.profile/eshop/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.profile/eshop/lang/en/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.profile/eshop/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.profile/eshop/lang/ru/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.profile/eshop/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.profile/eshop/lang/ua/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.profile/eshop/lang/ua/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.profile/eshop/result_modifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.profile/eshop/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.profile/eshop/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/menu/bottom_menu/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/menu/bottom_menu/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/menu/personal_menu/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/menu/personal_menu/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.personal.order/.default/cancel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.personal.order/.default/detail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.personal.order/.default/list.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.personal.order/list/cancel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.personal.order/list/detail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.personal.order/list/list.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/lang/en/description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/lang/en/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/lang/ru/.styles.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/lang/ru/description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/lang/ru/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/lang/ua/.styles.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/lang/ua/description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/lang/ua/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/images/cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/images/delete_item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/images/info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/images/profile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/ajax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/ajax_template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/lang/en/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/lang/ru/ajax_template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/script.map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/script.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/small_template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/top_template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/shop/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/templates/shop/css/main.css" afterPath="$PROJECT_DIR$/bitrix/templates/shop/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/templates/shop/footer.php" afterPath="$PROJECT_DIR$/bitrix/templates/shop/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/templates/shop/header.php" afterPath="$PROJECT_DIR$/bitrix/templates/shop/header.php" />
     </list>
     <ignored path="bitrix_shop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,79 +51,11 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sect_sidebar.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sect_sidebar.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".top.menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.top.menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".bottom.menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.bottom.menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".personal.menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.personal.menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17051">
-              <caret line="1003" column="22" selection-start-line="1003" selection-start-column="22" selection-end-line="1003" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="description.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/description.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="387">
+              <caret line="103" column="39" selection-start-line="103" selection-start-column="39" selection-end-line="103" selection-end-column="39" />
+              <folding>
+                <marker date="1553112302935" expanded="false" signature="6606:6619" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,68 +63,32 @@
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="274">
+              <caret line="165" column="26" selection-start-line="165" selection-start-column="26" selection-end-line="165" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".styles.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/.styles.php">
+      <file leaf-file-name="top_template.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_basket/top_template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="434">
+              <caret line="96" column="54" selection-start-line="96" selection-start-column="54" selection-end-line="96" selection-end-column="54" />
               <folding>
-                <marker date="1553080899197" expanded="true" signature="593:639" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="808:854" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="1021:1067" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="1238:1284" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="1453:1499" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="1714:1827" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="2009:2120" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="2306:2420" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="2604:2719" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="2899:3000" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="3181:3296" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="3522:3635" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="3841:3953" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="4163:4277" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="4485:4599" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="4803:4904" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="5109:5223" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="5366:5396" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="5652:5691" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="5734:5766" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="5975:6014" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="6050:6082" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="6284:6323" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="6359:6391" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="6603:6642" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="6683:6715" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="6924:6963" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="7000:7032" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="7231:7270" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="7304:7336" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="7542:7581" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="7623:7655" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="7869:7908" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="7950:7982" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="8188:8227" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="8262:8294" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="8493:8532" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="8567:8599" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="8800:8839" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="8875:8907" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="9107:9146" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="9181:9213" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="9428:9467" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="9510:9542" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="9766:9805" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="9856:9888" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="10090:10129" ph="..." />
-                <marker date="1553080899197" expanded="true" signature="10165:10197" ph="..." />
+                <element signature="e#713#719#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -248,10 +101,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bitrix/templates/shop/css/main.css" />
-        <option value="$PROJECT_DIR$/bitrix/templates/shop/header.php" />
         <option value="$PROJECT_DIR$/bitrix/templates/shop/lang/ru/description.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/ajax_template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/callback_popup/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/shop/includes/form.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/callback_popup/script.js" />
+        <option value="$PROJECT_DIR$/bitrix/templates/shop/js/main.js" />
+        <option value="$PROJECT_DIR$/bitrix/templates/shop/footer.php" />
+        <option value="$PROJECT_DIR$/include/form.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/callback_popup/style.css" />
+        <option value="$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/callback_popup/style.min.css" />
+        <option value="$PROJECT_DIR$/bitrix/templates/shop/css/main.css" />
+        <option value="$PROJECT_DIR$/include/description.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/shop/header.php" />
       </list>
     </option>
   </component>
@@ -322,6 +186,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="bitrix" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -345,6 +223,58 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -395,6 +325,122 @@
               <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sale.basket.basket.line" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top_user" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sale.basket.basket.line" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top_basket" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix_shop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bitrix" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -413,11 +459,15 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\bit2\bitrix_shop\bitrix\templates\" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\bit2\bitrix_shop\include" />
+      <recent name="E:\bit2\bitrix_shop\bitrix\templates\shop\js" />
       <recent name="E:\bit2\bitrix_shop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\bit2\bitrix_shop\bitrix\templates\shop\components\bitrix\sale.basket.basket.line\" />
+      <recent name="E:\bit2\bitrix_shop\bitrix\templates\shop\components\bitrix\sale.basket.basket.line\top_basket" />
+      <recent name="E:\bit2\bitrix_shop\bitrix\templates\" />
     </key>
   </component>
   <component name="RunManager">
@@ -479,36 +529,36 @@
       <option name="presentableId" value="Default" />
       <updated>1553079497158</updated>
       <workItem from="1553079498343" duration="4793000" />
-      <workItem from="1553105188624" duration="102000" />
+      <workItem from="1553105188624" duration="9340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4895000" />
+    <option name="totallyTimeSpent" value="14133000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1913646" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14658849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24675325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32359308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1913646" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1705757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23268399" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32359308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16558442" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42532468" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -523,7 +573,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -531,7 +583,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
-          <folding />
+          <folding>
+            <marker date="1553112302935" expanded="false" signature="6606:6619" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -687,10 +741,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/.styles.php">
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/description.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/lang/ru/big.png" />
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/lang/ru/small.png" />
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/lang/ru/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/lang/ru/.styles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/lang/ru/description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/page_templates/bootstrap/template.php" />
+    <entry file="file://$PROJECT_DIR$/sect_sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.personal.menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.top.menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bottom.menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/.styles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="115" selection-start-line="13" selection-start-column="105" selection-end-line="13" selection-end-column="115" />
           <folding>
             <marker date="1553080899197" expanded="true" signature="593:639" ph="..." />
             <marker date="1553080899197" expanded="true" signature="808:854" ph="..." />
@@ -744,99 +870,230 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/description.php">
+    <entry file="file://$PROJECT_DIR$/bitrix/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_basket/ajax_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/wizards/bitrix/demo/scripts/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="46" />
+          <folding>
+            <marker date="1553080913391" expanded="true" signature="1214:1264" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="2080:16082" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="2088:14810" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="2207:2446" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="2234:2390" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="2473:5137" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="2486:2663" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="2741:2822" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="2841:3094" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="3114:3204" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="3256:3284" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="3310:3358" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="3381:3485" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="3506:3762" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="3794:3874" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="3894:3993" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="4007:4149" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="4197:4288" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="4310:4432" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="4482:4548" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="4599:4686" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="4772:4900" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="4958:5018" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="5076:5126" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="5172:14800" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="5199:6480" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="6362:6475" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="6512:6619" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="6649:6849" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="6755:6844" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="6882:6926" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="6966:7880" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="7073:7875" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="7310:7356" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="7501:7610" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="7626:7777" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="7958:8868" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="8386:8419" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="8465:8641" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="8574:8635" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="8687:8863" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="8796:8857" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="8905:9098" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="8942:9008" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="9022:9093" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="9131:9182" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="9213:9356" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="9414:10020" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="10073:11159" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="10550:10628" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="10843:10894" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="11024:11075" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="11222:12192" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="12061:12187" ph="//..." />
+            <marker date="1553080913391" expanded="true" signature="12243:12677" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="12754:13061" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="13111:13180" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="13246:13623" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="13654:14749" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="13687:14551" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="13703:14529" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="14584:14744" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="14600:14728" ph="{...}" />
+            <marker date="1553080913391" expanded="true" signature="14867:16074" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="14949:16065" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="14954:16056" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="14959:16050" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="14998:16044" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="15005:15293" ph="..." />
+            <marker date="1553080913391" expanded="false" signature="15146:15165" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="15300:15732" ph="..." />
+            <marker date="1553080913391" expanded="false" signature="15328:15345" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="15346:15724" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="15392:15493" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="15532:15609" ph="..." />
+            <marker date="1553080913391" expanded="true" signature="15739:16034" ph="..." />
+            <marker date="1553080913391" expanded="false" signature="15884:15903" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/callback_popup/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/callback_popup/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/callback_popup/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/main.feedback/callback_popup/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="274">
+          <caret line="165" column="26" selection-start-line="165" selection-start-column="26" selection-end-line="165" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/lang/ru/big.png" />
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/lang/ru/small.png" />
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/css/main.css">
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17051">
-          <caret line="1003" column="22" selection-start-line="1003" selection-start-column="22" selection-end-line="1003" selection-end-column="22" />
+        <state relative-caret-position="-59">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/lang/ru/header.php">
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/ajax.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="136">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/lang/ru/.styles.php">
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/ajax_template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/lang/ru/description.php">
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_user/top_template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="-293">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/page_templates/bootstrap/template.php" />
     <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
-          <folding />
+        <state relative-caret-position="387">
+          <caret line="103" column="39" selection-start-line="103" selection-start-column="39" selection-end-line="103" selection-end-column="39" />
+          <folding>
+            <marker date="1553112302935" expanded="false" signature="6606:6619" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sect_sidebar.php">
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/shop/components/bitrix/sale.basket.basket.line/top_basket/top_template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.personal.menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.top.menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.bottom.menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="434">
+          <caret line="96" column="54" selection-start-line="96" selection-start-column="54" selection-end-line="96" selection-end-column="54" />
+          <folding>
+            <element signature="e#713#719#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

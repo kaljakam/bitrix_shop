@@ -167,5 +167,15 @@
 		})
 	});
 </script>
+
+<?
+CJSCore::RegisterExt("shop", Array(
+	"js" => array(
+		SITE_TEMPLATE_PATH . "/js/jquery.min.js",
+		SITE_TEMPLATE_PATH . "/js/main.js",
+	),
+));
+CJSCore::Init(array("shop"));
+?>
 </body>
 </html>
