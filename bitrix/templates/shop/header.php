@@ -26,21 +26,24 @@ $curPage = $APPLICATION->GetCurPage(true);
 
 				<div class="col-lg-12 col-md-12 col-sm-12 hidden-xs">
 					<?$APPLICATION->IncludeComponent(
-						"bitrix:menu",
-						"top_menu",
-						Array(
-							"ALLOW_MULTI_SELECT" => "N",
-							"CHILD_MENU_TYPE" => "left",
-							"DELAY" => "N",
-							"MAX_LEVEL" => "1",
-							"MENU_CACHE_GET_VARS" => array(""),
-							"MENU_CACHE_TIME" => "3600",
-							"MENU_CACHE_TYPE" => "N",
-							"MENU_CACHE_USE_GROUPS" => "Y",
-							"ROOT_MENU_TYPE" => "left",
-							"USE_EXT" => "N"
-						)
-					);?>
+	"bitrix:menu", 
+	"top_menu", 
+	array(
+		"ALLOW_MULTI_SELECT" => "N",
+		"CHILD_MENU_TYPE" => "left",
+		"DELAY" => "N",
+		"MAX_LEVEL" => "1",
+		"MENU_CACHE_GET_VARS" => array(
+		),
+		"MENU_CACHE_TIME" => "3600",
+		"MENU_CACHE_TYPE" => "N",
+		"MENU_CACHE_USE_GROUPS" => "Y",
+		"ROOT_MENU_TYPE" => "top",
+		"USE_EXT" => "N",
+		"COMPONENT_TEMPLATE" => "top_menu"
+	),
+	false
+);?>
 					<?$APPLICATION->IncludeComponent(
 	"bitrix:sale.basket.basket.line", 
 	"top_user", 
@@ -97,30 +100,31 @@ $curPage = $APPLICATION->GetCurPage(true);
 				</div>
 				<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 hidden-xs">
 					<?$APPLICATION->IncludeComponent(
-	"bitrix:sale.basket.basket.line", 
-	"top_basket", 
-	array(
-		"PATH_TO_BASKET" => SITE_DIR."personal/cart/",
-		"PATH_TO_PERSONAL" => SITE_DIR."personal/",
-		"SHOW_PERSONAL_LINK" => "N",
-		"SHOW_NUM_PRODUCTS" => "Y",
-		"SHOW_TOTAL_PRICE" => "Y",
-		"SHOW_PRODUCTS" => "N",
-		"POSITION_FIXED" => "N",
-		"SHOW_AUTHOR" => "N",
-		"PATH_TO_REGISTER" => SITE_DIR."login/",
-		"PATH_TO_PROFILE" => SITE_DIR."personal/",
-		"COMPONENT_TEMPLATE" => "top_basket",
-		"PATH_TO_ORDER" => SITE_DIR."personal/order/make/",
-		"SHOW_EMPTY_VALUES" => "Y",
-		"PATH_TO_AUTHORIZE" => "",
-		"SHOW_REGISTRATION" => "Y",
-		"HIDE_ON_BASKET_PAGES" => "Y"
-	),
-	false
-);?>
+						"bitrix:sale.basket.basket.line",
+						"top_basket",
+						array(
+							"PATH_TO_BASKET" => SITE_DIR."personal/cart/",
+							"PATH_TO_PERSONAL" => SITE_DIR."personal/",
+							"SHOW_PERSONAL_LINK" => "N",
+							"SHOW_NUM_PRODUCTS" => "Y",
+							"SHOW_TOTAL_PRICE" => "Y",
+							"SHOW_PRODUCTS" => "N",
+							"POSITION_FIXED" => "N",
+							"SHOW_AUTHOR" => "N",
+							"PATH_TO_REGISTER" => SITE_DIR."login/",
+							"PATH_TO_PROFILE" => SITE_DIR."personal/",
+							"COMPONENT_TEMPLATE" => "top_basket",
+							"PATH_TO_ORDER" => SITE_DIR."personal/order/make/",
+							"SHOW_EMPTY_VALUES" => "Y",
+							"PATH_TO_AUTHORIZE" => "",
+							"SHOW_REGISTRATION" => "Y",
+							"HIDE_ON_BASKET_PAGES" => "Y"
+						),
+						false
+					);?>
 				</div>
 			</div>
+			<? /* ?>
 			<div class="row">
 				<div class="col-md-12 hidden-xs">
 					<?$APPLICATION->IncludeComponent("bitrix:menu", "catalog_horizontal", array(
@@ -201,17 +205,15 @@ $curPage = $APPLICATION->GetCurPage(true);
 			<h1 style="display: none"><?$APPLICATION->ShowTitle()?></h1>
 			<?
 			}
-			?>
+			*/ ?>
 		</div>
 	</header>
 
 	<div class="workarea">
-		<div class="container bx-content-seection">
-			<div class="row">
+		<div class="bx-content-section">
 			<?
 			$hideSidebar =
 				defined("HIDE_SIDEBAR") && HIDE_SIDEBAR == true
 				|| preg_match("~^".SITE_DIR."(catalog|personal\\/cart|personal\\/order\\/make)/~", $curPage)
 			? true : false;
 			?>
-				<div class="bx-content <?=($hideSidebar ? "col-xs-12" : "col-md-9 col-sm-8")?>">

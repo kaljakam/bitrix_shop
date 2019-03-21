@@ -1,5 +1,4 @@
 <?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
-					</div>
 					<?if (!$hideSidebar):?>
 					<div class="sidebar col-md-3 col-sm-4">
 						<?$APPLICATION->IncludeComponent(
@@ -16,7 +15,6 @@
 						);?>
 					</div><!--// sidebar -->
 					<?endif?>
-				</div><!--//row-->
 				<?$APPLICATION->IncludeComponent(
 					"bitrix:main.include",
 					"",
