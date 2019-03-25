@@ -6,10 +6,11 @@
  * @global string $cartId
  */
 $compositeStub = (isset($arResult['COMPOSITE_STUB']) && $arResult['COMPOSITE_STUB'] == 'Y');
-?><div class="bx-hdr-profile">
+?>
+
+<nav class="navi-cab">
 <?if (!$compositeStub && $arParams['SHOW_AUTHOR'] == 'Y'):?>
-	<div class="bx-basket-block">
-		<i class="fa fa-user"></i>
+	<ul>
 		<?if ($USER->IsAuthorized()):
 			$name = trim($USER->GetFullName());
 			if (! $name)
@@ -17,9 +18,11 @@ $compositeStub = (isset($arResult['COMPOSITE_STUB']) && $arResult['COMPOSITE_STU
 			if (strlen($name) > 15)
 				$name = substr($name, 0, 12).'...';
 			?>
-			<a href="<?=$arParams['PATH_TO_PROFILE']?>"><?=htmlspecialcharsbx($name)?></a>
-			&nbsp;
-			<a href="?logout=yes"><?=GetMessage('TSB1_LOGOUT')?></a>
+
+            <li><a href="<?=$arParams['PATH_TO_PROFILE']?>"><?=htmlspecialcharsbx($name)?></a></li>
+            <p>/</p>
+            <li><a href="?logout=yes"><?=GetMessage('TSB1_LOGOUT')?></a></li>
+            <i class="fa fa-user"></i>
 		<?else:
 			$arParamsToDelete = array(
 				"login",
@@ -67,7 +70,7 @@ $compositeStub = (isset($arResult['COMPOSITE_STUB']) && $arResult['COMPOSITE_STU
 			}
 			?>
 		<?endif?>
-	</div>
+	</ul>
 <?endif?>
 	<div class="bx-basket-block"><?
 		if (!$arResult["DISABLE_USE_BASKET"])
@@ -101,4 +104,4 @@ $compositeStub = (isset($arResult['COMPOSITE_STUB']) && $arResult['COMPOSITE_STU
 			</div>
 		<?endif?>
 	</div>
-</div>
+</nav>

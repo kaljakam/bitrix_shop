@@ -1,10 +1,12 @@
 /* Left menu*/
+/*
 ul.left-menu
 {
+	dispay: none;
 	list-style:none;
 	margin:0; padding:0;
 	margin-bottom:8px;
-	position: relative; /*IE bug*/
+	position: relative; !*IE bug*!
 }
 
 ul.left-menu li
@@ -39,6 +41,27 @@ ul.left-menu li a.selected:hover
 {
 	color:#FC8D3D;
 }
+*/
 
-
+.main-menu {
+    position: relative;
+    top: 5px;
+    font-size: 12px;
+    font-family: "SegoeUi-Light",sans-serif; }
+.main-head .main-menu ul {
+    padding-left: 0px; }
+.main-head .main-menu ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 35px;
+    border-bottom: 1px solid transparent; }
+.main-head .main-menu ul li a {
+    color: #455a64;
+    text-decoration: none;
+    -webkit-transition: all .7s ease;
+    transition: all .7s ease; }
+.main-head .main-menu ul li.active li, .main-head .main-menu ul li:hover li {
+    border-bottom: 1px solid #3d3d3d;
+    -webkit-transition: all .7s ease;
+    transition: all .7s ease; }
 

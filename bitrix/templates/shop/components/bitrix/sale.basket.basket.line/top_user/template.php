@@ -21,7 +21,8 @@ else
 ?><script>
 var <?=$cartId?> = new BitrixSmallCart;
 </script>
-<div class="<?=$cartStyle?>"><?
+<div class="akk-cab">
+    <?
 	/** @var \Bitrix\Main\Page\FrameBuffered $frame */
 	$frame = $this->createFrame($cartId, false)->begin();
 		require(realpath(dirname(__FILE__)).'/ajax_template.php');

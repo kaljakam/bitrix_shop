@@ -5,8 +5,11 @@
  * @global CMain $APPLICATION
  * @global string $cartId
  */
+
+
+
 $compositeStub = (isset($arResult['COMPOSITE_STUB']) && $arResult['COMPOSITE_STUB'] == 'Y');
-?><div class="bx-hdr-profile">
+?><!--<div class="bx-hdr-profile">-->
 <?if (!$compositeStub && $arParams['SHOW_AUTHOR'] == 'Y'):?>
 	<div class="bx-basket-block">
 		<i class="fa fa-user"></i>
@@ -69,36 +72,50 @@ $compositeStub = (isset($arResult['COMPOSITE_STUB']) && $arResult['COMPOSITE_STU
 		<?endif?>
 	</div>
 <?endif?>
-	<div class="bx-basket-block"><?
+
+
+
+    <!--<div class="but ml10">
+        <button class=" pt6 px11">
+            <img src="/upload/img/header/basket.png" alt="">
+            <span>16</span>
+            <p class="pt9 m-0 pb5">450p</p>
+        </button>-->
+	<div class="but"><?
 		if (!$arResult["DISABLE_USE_BASKET"])
 		{
-			?><i class="fa fa-shopping-cart"></i>
-			<a href="<?= $arParams['PATH_TO_BASKET'] ?>"><?= GetMessage('TSB1_CART') ?></a><?
+			?>
+            <button class=" pt6 px11">
+                <a href="<?= $arParams['PATH_TO_BASKET'] ?>"><?/*= GetMessage('TSB1_CART') */?>
+                <img src="/upload/img/header/basket.png" alt="">
+                    <span>16</span>
+           <!-- <i class="fa fa-shopping-cart"></i>-->
+			</a><?
 		}
-
 		if (!$compositeStub)
 		{
 			if ($arParams['SHOW_NUM_PRODUCTS'] == 'Y' && ($arResult['NUM_PRODUCTS'] > 0 || $arParams['SHOW_EMPTY_VALUES'] == 'Y'))
 			{
-				echo $arResult['NUM_PRODUCTS'].' '.$arResult['PRODUCT(S)'];
+				echo $arResult['NUM_PRODUCTS'].' '.$arResult['/*PRODUCT(S)*/']; /*в продукт комент*/
 
 				if ($arParams['SHOW_TOTAL_PRICE'] == 'Y')
 				{
 					?>
 					<br <? if ($arParams['POSITION_FIXED'] == 'Y'): ?>class="hidden-xs"<? endif; ?>/>
-					<span>
-						<?=GetMessage('TSB1_TOTAL_PRICE')?> <strong><?=$arResult['TOTAL_PRICE']?></strong>
-					</span>
+					<p class="pt9 m-0 pb5">
+					<!--текст на сумму--><?/*=GetMessage('TSB1_TOTAL_PRICE')*/?> <strong><?=$arResult['TOTAL_PRICE']?></strong>
+					</p>
 					<?
 				}
 			}
 		}
 
 		if ($arParams['SHOW_PERSONAL_LINK'] == 'Y'):?>
-			<div style="padding-top: 4px;">
+			<!--<div style="padding-top: 4px;">
 			<span class="icon_info"></span>
-			<a href="<?=$arParams['PATH_TO_PERSONAL']?>"><?=GetMessage('TSB1_PERSONAL')?></a>
-			</div>
+			<a href="<?/*=$arParams['PATH_TO_PERSONAL']*/?>"><?/*=GetMessage('TSB1_PERSONAL')*/?></a>
+			</div>-->
 		<?endif?>
+            </button>
 	</div>
 </div>
