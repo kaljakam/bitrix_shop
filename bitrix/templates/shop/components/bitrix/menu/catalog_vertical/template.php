@@ -35,8 +35,7 @@ $menuBlockId = "catalog_menu_".$this->randString();
 				<?if (is_array($arColumns) && count($arColumns) > 0):?>
 					data-role="bx-menu-item"
 				<?endif?>
-				onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_<?=$menuBlockId?>.clickInMobile(this, event);"
-			>
+				onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_<?=$menuBlockId?>.clickInMobile(this, event);">
 				<a
 					href="<?=$arResult["ALL_ITEMS"][$itemID]["LINK"]?>"
 					<?if (is_array($arColumns) && count($arColumns) > 0 && $existPictureDescColomn):?>

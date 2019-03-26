@@ -39,36 +39,30 @@ $curPage = $APPLICATION->GetCurPage(true);
 </head>
 <body>
 <div id="panel"><?$APPLICATION->ShowPanel();?></div>
-<!--<div class="bx-wrapper" id="bx_eshop_wrap">-->
-	<!--<header class="bx-header">
-		<div class="bx-header-section container">
-			<div class="row">
-
-				<div class="col-lg-12 col-md-12 col-sm-12 hidden-xs">-->
     <header class="bx-header main-head">
         <div class="top-menu">
             <div class="container w-100">
                 <div class="row">
                     <div class="col-xl-9 col-lg-9 col-md-8 col-sm-6 col-4 pl88">
 					<?$APPLICATION->IncludeComponent(
-	"bitrix:menu",
-	"top_menu",
-	array(
-		"ALLOW_MULTI_SELECT" => "N",
-		"CHILD_MENU_TYPE" => "left",
-		"DELAY" => "N",
-		"MAX_LEVEL" => "1",
-		"MENU_CACHE_GET_VARS" => array(
-		),
-		"MENU_CACHE_TIME" => "3600",
-		"MENU_CACHE_TYPE" => "N",
-		"MENU_CACHE_USE_GROUPS" => "Y",
-		"ROOT_MENU_TYPE" => "top",
-		"USE_EXT" => "N",
-		"COMPONENT_TEMPLATE" => "top_menu"
-	),
-	false
-);?>
+                        "bitrix:menu",
+                        "top_menu",
+                        array(
+                            "ALLOW_MULTI_SELECT" => "N",
+                            "CHILD_MENU_TYPE" => "left",
+                            "DELAY" => "N",
+                            "MAX_LEVEL" => "1",
+                            "MENU_CACHE_GET_VARS" => array(
+                            ),
+                            "MENU_CACHE_TIME" => "3600",
+                            "MENU_CACHE_TYPE" => "N",
+                            "MENU_CACHE_USE_GROUPS" => "Y",
+                            "ROOT_MENU_TYPE" => "top",
+                            "USE_EXT" => "N",
+                            "COMPONENT_TEMPLATE" => "top_menu"
+                        ),
+                        false
+                    );?>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-8 pr88">
                             <? $APPLICATION->IncludeComponent(
@@ -171,97 +165,9 @@ $curPage = $APPLICATION->GetCurPage(true);
                                     false
                                 );?>
 						    </div>
-
-
-				</div>
-			<!--	<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 hidden-xs">-->
-
-
-
-				</div>
-			</div>
-			<? /* ?>
-			<div class="row">
-				<div class="col-md-12 hidden-xs">
-					<?$APPLICATION->IncludeComponent("bitrix:menu", "catalog_horizontal", array(
-							"ROOT_MENU_TYPE" => "left",
-							"MENU_CACHE_TYPE" => "A",
-							"MENU_CACHE_TIME" => "36000000",
-							"MENU_CACHE_USE_GROUPS" => "Y",
-							"MENU_THEME" => "site",
-							"CACHE_SELECTED_ITEMS" => "N",
-							"MENU_CACHE_GET_VARS" => array(
-							),
-							"MAX_LEVEL" => "3",
-							"CHILD_MENU_TYPE" => "left",
-							"USE_EXT" => "Y",
-							"DELAY" => "N",
-							"ALLOW_MULTI_SELECT" => "N",
-						),
-						false
-					);?>
-				</div>
-			</div>
-			<?if ($curPage != SITE_DIR."index.php"):?>
-			<div class="row">
-				<div class="col-lg-12">
-					<?$APPLICATION->IncludeComponent("bitrix:search.title", "visual", array(
-							"NUM_CATEGORIES" => "1",
-							"TOP_COUNT" => "5",
-							"CHECK_DATES" => "N",
-							"SHOW_OTHERS" => "N",
-							"PAGE" => SITE_DIR."catalog/",
-							"CATEGORY_0_TITLE" => GetMessage("SEARCH_GOODS") ,
-							"CATEGORY_0" => array(
-								0 => "iblock_catalog",
-							),
-							"CATEGORY_0_iblock_catalog" => array(
-								0 => "all",
-							),
-							"CATEGORY_OTHERS_TITLE" => GetMessage("SEARCH_OTHER"),
-							"SHOW_INPUT" => "Y",
-							"INPUT_ID" => "title-search-input",
-							"CONTAINER_ID" => "search",
-							"PRICE_CODE" => array(
-								0 => "BASE",
-							),
-							"SHOW_PREVIEW" => "Y",
-							"PREVIEW_WIDTH" => "75",
-							"PREVIEW_HEIGHT" => "75",
-							"CONVERT_CURRENCY" => "Y"
-						),
-						false
-					);?>
-				</div>
-			</div>
-			<?endif?>
-
-			<?
-			if ($curPage != SITE_DIR."index.php")
-			{
-			?>
-			<div class="row">
-				<div class="col-lg-12" id="navigation">
-					<?$APPLICATION->IncludeComponent("bitrix:breadcrumb", "", array(
-							"START_FROM" => "0",
-							"PATH" => "",
-							"SITE_ID" => "-"
-						),
-						false,
-						Array('HIDE_ICONS' => 'Y')
-					);?>
-				</div>
-			</div>
-			<h1 class="bx-title dbg_title" id="pagetitle"><?=$APPLICATION->ShowTitle(false);?></h1>
-			<?
-			}
-			else
-			{
-			?>
-			<h1 style="display: none"><?$APPLICATION->ShowTitle()?></h1>
-			<?
-			}
-			*/ ?>
+				        </div>
+				    </div>
+			    </div>
             </div>
         </div>
 	</header>

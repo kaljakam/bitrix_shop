@@ -326,7 +326,7 @@ if ($arParams['HIDE_SECTION_DESCRIPTION'] !== 'Y')
 										<?
 										$APPLICATION->IncludeComponent(
 											'bitrix:catalog.item',
-											'',
+											'mainpage_item',
 											array(
 												'RESULT' => array(
 													'ITEM' => $item,

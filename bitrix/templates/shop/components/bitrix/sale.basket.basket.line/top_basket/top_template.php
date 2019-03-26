@@ -88,16 +88,22 @@ $compositeStub = (isset($arResult['COMPOSITE_STUB']) && $arResult['COMPOSITE_STU
             <button class=" pt6 px11">
                 <a href="<?= $arParams['PATH_TO_BASKET'] ?>"><?/*= GetMessage('TSB1_CART') */?>
                 <img src="/upload/img/header/basket.png" alt="">
-                    <span>16</span>
-           <!-- <i class="fa fa-shopping-cart"></i>-->
-			</a><?
+					<span><?
+
+						if (!$compositeStub)
+						{
+							if ($arParams['SHOW_NUM_PRODUCTS'] == 'Y' && ($arResult['NUM_PRODUCTS'] > 0 || $arParams['SHOW_EMPTY_VALUES'] == 'Y'))
+							{
+								echo $arResult['NUM_PRODUCTS']; /*в продукт комент*/
+							}
+						}
+						?></span>
+				</a><?
 		}
 		if (!$compositeStub)
 		{
 			if ($arParams['SHOW_NUM_PRODUCTS'] == 'Y' && ($arResult['NUM_PRODUCTS'] > 0 || $arParams['SHOW_EMPTY_VALUES'] == 'Y'))
 			{
-				echo $arResult['NUM_PRODUCTS'].' '.$arResult['/*PRODUCT(S)*/']; /*в продукт комент*/
-
 				if ($arParams['SHOW_TOTAL_PRICE'] == 'Y')
 				{
 					?>
